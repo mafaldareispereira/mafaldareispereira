@@ -1,6 +1,6 @@
 ### Hi there / Olá 👋
 
-I'm a P.h.D. Student in Agrarian Sciences at the Faculty of Sciences of the University of Porto and researcher at INESC TEC (Institute for Systems and Computer Engineering, Technology and Science).
+I'm a P.h.D. Candidate in Agrarian Sciences at the Faculty of Sciences of the University of Porto and researcher at INESC TEC (Institute for Systems and Computer Engineering, Technology and Science).
 
 I am currently developing my dissertation on the theme "Early detection and identification of plant diseases caused by bacteria based on proximal sensing in a precision agriculture perspective". 
 
